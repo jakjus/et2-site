@@ -54,7 +54,7 @@ body {
     background-color: #2C2F33 !important
 }
 .heading {
-    padding: 160px 50px !important;
+    padding: 60px 50px !important;
     color: #fff !important;
     background-image: url("../assets/wavy-purple-by-nouridio.svg") !important;
     background-position: bottom !important;
@@ -63,8 +63,8 @@ body {
 }
 
 .title {
-    line-height: 90px !important;
-    margin-bottom: -2px !important;
+    line-height: 50px !important;
+    margin-bottom: 30px !important;
     font-size: 36px !important
 }
 
