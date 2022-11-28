@@ -54,7 +54,7 @@ body {
     background-color: #2C2F33 !important
 }
 .heading {
-    padding: 60px 50px !important;
+    padding: 60px 50px 120px!important;
     color: #fff !important;
     background-image: url("../assets/wavy-purple-by-nouridio.svg") !important;
     background-position: bottom !important;
